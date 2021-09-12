@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactrolodexv2/static/css/main.3dfe414d.chunk.css",
+    "main.js": "/reactrolodexv2/static/js/main.cb4bbf9f.chunk.js",
+    "main.js.map": "/reactrolodexv2/static/js/main.cb4bbf9f.chunk.js.map",
+    "runtime-main.js": "/reactrolodexv2/static/js/runtime-main.38e3bc71.js",
+    "runtime-main.js.map": "/reactrolodexv2/static/js/runtime-main.38e3bc71.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/reactrolodexv2/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dd42444f.chunk.js": "/reactrolodexv2/static/js/2.dd42444f.chunk.js",
+    "static/js/2.dd42444f.chunk.js.map": "/reactrolodexv2/static/js/2.dd42444f.chunk.js.map",
+    "static/js/3.c2c89f61.chunk.js": "/reactrolodexv2/static/js/3.c2c89f61.chunk.js",
+    "static/js/3.c2c89f61.chunk.js.map": "/reactrolodexv2/static/js/3.c2c89f61.chunk.js.map",
+    "index.html": "/reactrolodexv2/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/reactrolodexv2/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.3dfe414d.chunk.css.map": "/reactrolodexv2/static/css/main.3dfe414d.chunk.css.map",
+    "static/js/2.dd42444f.chunk.js.LICENSE.txt": "/reactrolodexv2/static/js/2.dd42444f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactrolodexv2/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e3bc71.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dd42444f.chunk.js",
+    "static/css/main.3dfe414d.chunk.css",
+    "static/js/main.cb4bbf9f.chunk.js"
+  ]
+}
